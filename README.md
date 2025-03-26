@@ -1,5 +1,4 @@
-# Age Calculator
-
+# Calculadora De Idade
 Este é um simples projeto de **Calculadora de Idade**, desenvolvido utilizando **HTML, CSS e JavaScript**. Ele permite que o usuário insira sua data de nascimento e, ao clicar no botão, veja sua idade exata em anos, meses e dias.
 
 ## 📌 Funcionalidades
